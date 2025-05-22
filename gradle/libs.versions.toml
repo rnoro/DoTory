@@ -1,9 +1,9 @@
 [versions]
-agp = "8.6.1"
+agp = "8.2.2"
 android-compileSdk = "34"
-android-minSdk = "24"
+android-minSdk = "26"
 android-targetSdk = "34"
-androidx-activityCompose = "1.9.3"
+androidx-activityCompose = "1.9.1"
 androidx-appcompat = "1.7.0"
 androidx-constraintlayout = "2.1.4"
 androidx-core-ktx = "1.13.1"
@@ -16,9 +16,9 @@ calfFilePickerCoil = "0.5.1"
 coilCompose = "3.0.0-rc02"
 compose-multiplatform = "1.7.0"
 junit = "4.13.2"
-kotlin = "2.0.21"
+kotlin = "2.0.0"
 python = "3.11"
-chaquo = "16.0.0"
+chaquo = "15.0.1"
 
 [libraries]
 calf-file-picker = { module = "com.mohamedrejeb.calf:calf-file-picker", version.ref = "calfFilePicker" }
